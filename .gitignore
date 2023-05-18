@@ -1,0 +1,8 @@
+# Rust
+target
+
+# JetBrains IDEs
+.idea
+
+# k6
+node_modules
